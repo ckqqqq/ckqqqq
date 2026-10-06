@@ -2,6 +2,6 @@
 
 I am Keqi, a curiosity-driven learner venturing into the unknown.
 
-I am curious about **Agent Infra**, **harness**, and **recursive self-improvement(RSI) design**.
+I am curious about **Agent Infra**, **harness**, and **recursive self-improvement(RSI) system design**.
 
 I believe in sacrificing what I want now for what I want ultimately.
