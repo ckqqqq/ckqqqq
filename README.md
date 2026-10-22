@@ -15,7 +15,7 @@ During my old-school, hand-coded days.
 - 🎬 **Mid/Late-2025 · [Rhythm-Driven Video Editing](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)**
   - An agent harness that turns music beats into multi-shot advertising videos.
   - Harness for movie editing~
-  - Watch demos here！→ [Storytelling](https://youtu.be/WDaFv-BpcbI) · [Beat-synced editing](https://youtu.be/yQnopTP_LIs) · [More demos](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)
+  - Watch demos → [Featured video](https://www.youtube.com/shorts/TafIeyAgjQw) · [More demos](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)
 
 - 💡 **Mid-2025 · [EMO-Avatar](https://ckqqqq.github.io/Demo/EmoAvatar/)**
   - A photo-realistic emotional avatar for emotional speech and animation.
