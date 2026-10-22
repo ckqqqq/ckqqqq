@@ -8,11 +8,33 @@ I believe in sacrificing what I want now for what I want ultimately.
 
 ## Demos
 
-Project demos and portfolio:
+A few things I built in the old-school, hand-coded days — from counseling agents to the harnesses around SQL, virtual humans, and video generation.
 
-- [EMO-Avatar: An LLM-Agent-Orchestrated Framework for Multimodal Emotional Support in Human Animation](https://ckqqqq.github.io/Demo/EmoAvatar/) — **Mid-2025.** A photorealistic virtual human with an agent-based shell that orchestrates its capabilities. ACM MM 2025; Silver & Bronze Medal  in the Avatar Emotional Interaction Task Challenge.
-- [Rhythm-Driven Harness for Video Editing](https://ckqqqq.github.io/Demo/Rhythm-Agent1/) — **Apr–Nov 2025.** An agentic framework for generating multi-shot, fast-paced advertising videos driven by music rhythm; developed during my internship at Alibaba Alimama-AIGC.
-- [NeuroSteer: Inference-Time Steering of LLMs via Feature Amplification](https://ckqqqq.github.io/Demo/NeuroSteer) — **Jan–Mar 2025.** A lightweight, white-box, quantifiable plugin for LLM control.
-- [DataJarvis: Agent Harness for SQL](https://ckqqqq.github.io/Demo/DataJarvis/) — **Mar–Oct 2024.** An Agent–SQL protocol combining reasoning, tool use, execution feedback, and self-criticism for reliable SQL generation; developed during my internship at Microsoft STCA.
-- [Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling](https://ckqqqq.github.io/Demo/Psy-Insight/index.html) — **Mar 2025 (preprint).**
-- [Psy-Copilot: Visual Chain of Thought for Counseling](https://ckqqqq.github.io/Demo/Psy-Copilot/index.html) — **Mar 2025 (preprint).** A graph-RAG agent that retrieves traceable counseling information to support collaboration among users, therapists, and LLMs.
+- 🎭 **Mid-2025 · [EMO-Avatar](https://ckqqqq.github.io/Demo/EmoAvatar/)**
+  - **What it does:** A photorealistic virtual human for emotionally expressive conversations.
+  - **Harness:** An agent-based logic shell around the avatar, speech synthesis, lip synchronization, video retrieval, and gesture generation.
+  - **Highlights:** First author and team lead; ACM MM 2025 accepted; silver in Avatar Emotional Interaction and bronze in Text Emotional Response.
+
+- 🎬 **Mid-2025 · [Rhythm-Driven Video Editing](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)**
+  - **What it does:** Turns music rhythm into fast-paced, multi-shot advertising videos.
+  - **Harness:** Coordinates shot sequencing and video generation around musical beats, with an emphasis on audiovisual storytelling.
+
+- 🎛️ **Early 2025 · [NeuroSteer](https://ckqqqq.github.io/Demo/NeuroSteer/)**
+  - **What it does:** Steers language model behavior at inference time through interpretable feature adjustments.
+  - **Under the hood:** A lightweight, white-box controller that uses sparse autoencoder features to adjust token-level output preferences.
+  - **Highlights:** First author and team lead; implemented from scratch in PyTorch. [Code](https://github.com/ckqqqq/NeuroSteer)
+
+- 🗃️ **Mid-2024 · [DataJarvis](https://ckqqqq.github.io/Demo/DataJarvis/)**
+  - **What it does:** Automates complex SQL generation and data analysis for Copilot teams.
+  - **Harness:** An Agent–SQL protocol combining database visibility, reasoning, tool use, execution feedback, and self-criticism.
+  - **Highlights:** Built at Microsoft STCA and integrated into production; reduced analysis time from 1–2 days to 20 minutes.
+
+- 💡 **2023 · [Psy-Insight](https://ckqqqq.github.io/Demo/Psy-Insight/index.html)**
+  - **What it does:** Provides an explainable, multi-turn Chinese–English dataset for mental health counseling.
+  - **Focus:** Long-context, supportive conversations for improving language models' emotional intelligence through post-training.
+  - **Highlights:** First-author research. [Paper](https://arxiv.org/abs/2503.03607)
+
+- 🌱 **Mid-2023 · [Psy-Copilot](https://ckqqqq.github.io/Demo/Psy-Copilot/index.html)**
+  - **What it does:** Makes counseling responses easier to trace through a visual chain of thought.
+  - **Harness:** A graph-RAG agent that retrieves relevant cases, strategies, and relations to support collaboration among users, therapists, and language models.
+  - **Highlights:** First-author demo paper. [Paper](https://arxiv.org/abs/2503.03645)
