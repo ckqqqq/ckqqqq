@@ -13,7 +13,7 @@ Coding for fun~
 During my old-school, hand-coded days.
 
 - 🎬 **Mid/Late-2025 · [Rhythm-Driven Video Editing](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)**
-  - An agent harness that turns music beats into multi-shot advertising videos.
+  - Starting with only images, no video footage: an agent harness generates and orchestrates multi-shot advertising videos to music.
   - Harness for movie editing~
   - Watch demos → [Featured video](https://www.youtube.com/shorts/TafIeyAgjQw) · [More demos](https://ckqqqq.github.io/Demo/Rhythm-Agent1/)
 
