@@ -8,11 +8,11 @@ I believe in sacrificing what I want now for what I want ultimately.
 
 ## Demos
 
-项目演示与作品集：[Keqi's Demos](https://github.com/ckqqqq/Demo)
+Project demos and portfolio: [Keqi's Demos](https://github.com/ckqqqq/Demo)
 
-- [EmoAvatar · 超写实情感对话虚拟人](https://ckqqqq.github.io/Demo/EmoAvatar/) — ACM Multimodal 接收；虚拟人情感回复赛道银牌、共情对话赛道铜牌。
-- 创意广告短视频剪辑 Agent — 淘天实习项目。
-- [NeuroSteer · 语言模型行为量化干预器](https://ckqqqq.github.io/Demo/NeuroSteer) — AAAI。
-- [Kingfisher · 数据仓库自动化 Agent](https://ckqqqq.github.io/Demo/DataJarvis/) — 微软实习项目。
-- [Psy-Insight · 高 EQ 心理咨询对话数据集](https://ckqqqq.github.io/Demo/Psy-Insight/index.html)
-- [Psy-Copilot · 高 EQ 心理咨询对话机器人](https://ckqqqq.github.io/Demo/Psy-Copilot/index.html)
+- [EMO-Avatar: An LLM-Agent-Orchestrated Framework for Multimodal Emotional Support in Human Animation](https://ckqqqq.github.io/Demo/EmoAvatar/) — ACM MM 2025; Silver Medal in the Avatar Emotional Interaction Task and Bronze Medal in the Text Emotional Response Challenge.
+- [Rhythm-Driven Harness for Video Editing](https://ckqqqq.github.io/Demo/Rhythm-Agent1/) — An agentic framework for generating multi-shot, fast-paced advertising videos driven by music rhythm; developed during my internship at Alibaba Alimama-AIGC.
+- [NeuroSteer: Inference-Time Steering of LLMs via Feature Amplification](https://ckqqqq.github.io/Demo/NeuroSteer) — A lightweight, white-box, quantifiable plugin for LLM control.
+- [DataJarvis: Agent Harness for SQL](https://ckqqqq.github.io/Demo/DataJarvis/) — An Agent–SQL protocol combining reasoning, tool use, execution feedback, and self-criticism for reliable SQL generation; developed during my internship at Microsoft STCA.
+- [Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling](https://ckqqqq.github.io/Demo/Psy-Insight/index.html)
+- [Psy-Copilot: Visual Chain of Thought for Counseling](https://ckqqqq.github.io/Demo/Psy-Copilot/index.html) — A graph-RAG agent that retrieves traceable counseling information to support collaboration among users, therapists, and LLMs.
