@@ -8,6 +8,10 @@ I believe in sacrificing what I want now for what I want ultimately.
 
 Coding for fun~
 
+## Current Projects
+
+- Visual harness workspaces for testing and comparing up to four harnesses side by side.
+
 ## Demo List
 
 During my old-school, hand-coded days.
