@@ -15,7 +15,8 @@ Coding for fun~
   - One prompt, four native harnesses: compare Claude Code, Codex, Hermes, and DSH side by side using the same DeepSeek model.
   - Draw a workspace with chat, files, previews, and notes; inspect interactive HTML, video, and 3D artifacts in each lane.
   - Independent sessions and workspaces, with extensible case plugins and separate geometry checks for 3D tasks.
-  - [Code](https://github.com/ckqqqq/Harness-Arena) · [3D showcase](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/images/3d-showcase.png) · [Documentation](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/README.md)
+  - Explore six measured 3D cases and four new video-editing task designs: beat cuts, vertical reframing, subtitles, and picture-in-picture.
+  - [Case Gallery](https://ckqqqq.github.io/Harness-Arena/) · [Code](https://github.com/ckqqqq/Harness-Arena) · [Video cases](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/video-cases.md) · [Documentation](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/README.md)
 
 During my old-school, hand-coded days.
 
