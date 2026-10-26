@@ -8,15 +8,14 @@ I believe in sacrificing what I want now for what I want ultimately.
 
 Coding for fun~
 
-## Current Projects
+
+## Demo List
 
 - 🏟️ **[Harness-Arena](https://github.com/ckqqqq/Harness-Arena)**
   - One prompt, four native harnesses: compare Claude Code, Codex, Hermes, and DSH side by side using the same DeepSeek model.
   - Draw a workspace with chat, files, previews, and notes; inspect interactive HTML, video, and 3D artifacts in each lane.
   - Independent sessions and workspaces, with extensible case plugins and separate geometry checks for 3D tasks.
   - [Code](https://github.com/ckqqqq/Harness-Arena) · [3D showcase](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/images/3d-showcase.png) · [Documentation](https://github.com/ckqqqq/Harness-Arena/blob/main/docs/README.md)
-
-## Demo List
 
 During my old-school, hand-coded days.
 
